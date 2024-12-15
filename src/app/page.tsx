@@ -17,10 +17,7 @@ export default async function Page() {
           <section className="w-full py-12 md:py-4">
             <div className="flex flex-col items-center justify-center space-y-4 md:space-y-8">
               <h1 className="text-center text-4xl font-bold sm:text-6xl xl:text-[108px]">
-                Get <span className="font-black text-[#0510EB]">Feedback.</span>
-              </h1>
-              <h1 className="text-center text-4xl font-bold sm:text-6xl xl:text-[108px]">
-                Build <span className="font-black text-[#0510EB]">Better.</span>
+                Sync. Solve. Scale
               </h1>
               <p className="text-muted-foreground max-w-[600px] text-center text-xs md:text-lg">
                 Collect feedback, uncover insights, and ship an awesome product.
